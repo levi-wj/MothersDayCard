@@ -74,6 +74,7 @@ section > p {
 }
 .card > h1 {
   margin-top: 4em;
+  margin-left: 1em;
 }
 .card > p {
   background-color: transparent;
@@ -94,6 +95,7 @@ section > p {
   cursor: pointer;
   border: 3px solid beige;
   animation: float 5s ease-in-out infinite;
+  color: rgb(33, 62, 31);
 }
 
 @keyframes float {
