@@ -45,29 +45,29 @@ section > p {
 }
 
 .section-1 {
-  background-image: url('/img/three_flowers.png');
+  background-image: url('img/three_flowers.png');
   background-position: 100% 100%;
 }
 
 .section-2 {
-  background-image: url('/img/daisy.png');
+  background-image: url('img/daisy.png');
   background-position: 100% 100%;
 }
 .section-3 {
-  background-image: url('/img/oohpretty.png');
+  background-image: url('img/oohpretty.png');
   background-position: 0% 100%;
 }
 .section-4 {
-  background-image: url('/img/tulips.png');
+  background-image: url('img/tulips.png');
   background-position: 100% 100%;
 }
 .section-5 {
-  background-image: url('/img/moreflowers.png');
+  background-image: url('img/moreflowers.png');
   background-position: 0% 100%;
 }
 .card {
   background-repeat: repeat-x;
-  background-image: url('/img/tulips.png');
+  background-image: url('img/tulips.png');
   background-position: 11% 100%;
   background-size: 20vw;
   justify-content: start;
